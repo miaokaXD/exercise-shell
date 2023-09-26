@@ -1,5 +1,5 @@
 #!/bin/bash
-#by miaoka
+#by_miaokaXD_20230131
 
 red='\033[31m'
 green='\033[32m'
